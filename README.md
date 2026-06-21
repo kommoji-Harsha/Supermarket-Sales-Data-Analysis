@@ -8,7 +8,7 @@ This project performs an end-to-end Exploratory Data Analysis (EDA) on a dataset
 * **Libraries:** Pandas (Data Manipulation), Matplotlib & Seaborn (Data Visualization)
 * **Environment:** Jupyter Notebook
 * **Key Concepts:** Data Imputation, Statistical Correlation, Linear Regression
-
+  
 ## 🧹 Data Cleaning & Preprocessing
 To ensure analytical validity, the dataset underwent rigorous cleaning:
 * **Imputation:** Filled 2,439 missing `Item_Weight` values using the column Mean, and 4,016 missing `Outlet_Size` values using the Mode.
